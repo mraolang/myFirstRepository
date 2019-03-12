@@ -1,2 +1,3 @@
 # myFirstRepository
 testRepository
+这个是我用来了解GitHub仓库的整个使用过程！
